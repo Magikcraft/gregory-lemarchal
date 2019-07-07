@@ -1,2 +1,3 @@
-# gregory-lemarche
-Grégory Lemarche en Minecraft
+# gregory-lemarchal
+
+Grégory Lemarchal en Minecraft
